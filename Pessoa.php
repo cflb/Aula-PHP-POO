@@ -17,12 +17,16 @@ class Pessoa {
         return $this->nome;
     }
 
-    public function set_nome($nome){
-        $this->nome = $nome;
+    public function set_nonew file:   Pessoa.php
+me){
+        $this->nome = $nomnew file:   Pessoa.php
+
     }
 
-    public function get_cpf(){
-        return $this->cpf;
+    public function get_cpnew file:   Pessoa.php
+
+        return $this->cpf;new file:   Pessoa.php
+
     }
 
     public function set_cpf($cpf){
@@ -48,12 +52,19 @@ class Pessoa {
     public function andar(){
         echo "andou...";
     }
+new file:   Pessoa.php
 
-    public function falar($alguma_coisa){
-        echo $alguma_coisa;
-    }
+new file:   Pessoa.php
+a_coisa){
+new file:   Pessoa.php
 
-}
+new file:   Pessoa.php
+
+new file:   Pessoa.php
+
+new file:   Pessoa.php
+
+new file:   Pessoa.php
 
 $pessoa1 = new Pessoa('Joao da Silva','123123123-23',22, 'M');
 
@@ -75,14 +86,5 @@ echo "Nome: " . $pessoa1->get_nome();
 echo "<br>";
 echo "Sexo: " . $pessoa1->get_sexo();
 echo "<br>";
-
-
-
-/*
-$pessoa1->nome = 'Joao';
-$pessoa1->cpf = '00924358087';
-$pessoa1->sexo = 'h';
-$pessoa1->idade = 61;
-*/
 
 
