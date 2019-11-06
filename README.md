@@ -1,6 +1,6 @@
 # Projeto Aula PHP - Orientado a objetos
 
-## Subtitulo
+## Polimorfismo
 
 ### Professor: 
 
